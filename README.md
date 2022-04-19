@@ -1,3 +1,3 @@
 I do stuff
 yeah
-I do servers
+I host servers
